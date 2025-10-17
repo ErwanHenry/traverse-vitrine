@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Sitemap location (will be generated later)
+Sitemap: https://traverse-vitrine.vercel.app/sitemap.xml
